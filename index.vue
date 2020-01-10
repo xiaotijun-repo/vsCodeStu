@@ -14,7 +14,7 @@
 new Vue({
   el: '#app',
   data: {
-    message: 'Hello Vue.js!'
+    message: 'Hello sss Vue.js!'
 }
 })
 </script>
